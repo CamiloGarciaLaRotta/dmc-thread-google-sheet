@@ -1,6 +1,9 @@
 # DMC Thread Google Sheet
 A Google Sheet to keep inventory of DMC threads. It will automatically colour cells and add the colour name for any valid DMC code.
 
+### What is DMC
+It's a thread company that has its own color coding schema. Their threads are commonly used for cross-stiching: https://www.dmc.com/us/thread-5000/
+
 ### How to use
 1. Create a copy of [the base Google Sheet](https://docs.google.com/spreadsheets/d/11LGlq5iOEaUjL3uIchl868p0G1mrW2Gz5RfZK5EjYhM/edit?usp=sharing): `File -> Make a copy`.  
   The default layout has a column per colour group, but you can aggregate all colours in a single column if you want.
